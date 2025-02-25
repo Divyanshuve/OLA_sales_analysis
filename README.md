@@ -1,6 +1,6 @@
 # OLA_sales_analysis
 1. Objectives and Solutions
-Objective: Identify the overall booking performance for July 2024.
+A. Objective: Identify the overall booking performance for July 2024.
 Solution: The dashboard reveals a total of 103,024 bookings with a total booking value of ₹56.53M. This indicates strong demand and successful customer engagement.
 
 2. Booking Success Rate:
