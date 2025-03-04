@@ -1,6 +1,15 @@
 # OLA_sales_analysis
+This is my latest Data Analyst project on OLA sales Analysis Dashboard.
+I utilized MYSQL, DAX, Power BI, and Excel to create an insightful sales dashboard for OLA Sales  and Here’s a glimpse into the process and the outcomes:
+Process:
+1. Data Collection: Gathered sales data from various sources and consolidated it into Excel.
+2. Data Cleaning: Ensured data accuracy and consistency by cleaning and transforming the data in Excel.
+3. Data Import: Importing the data on MYSQL for further solutions for the objectives by writing some queries.
+4. Data Modeling: Used DAX to create calculated columns and measures for deeper analysis.
+5. Visualization: Leveraged Power BI to design an interactive and visually appealing dashboard.
+   
 SQL Question (Queries)
-SQL Answers:
+
 1. Retrieve all successful bookings:
 SELECT * FROM bookings WHERE Booking_Status = 'Success';
 
